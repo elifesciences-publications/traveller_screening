@@ -1,7 +1,6 @@
 ## Estimated effectiveness of symptom and risk screening to prevent the spread of COVID-19
 **Authors: Gostic, Gomez, Mumah, Kucharski, Lloyd-Smith.**
-Last update: Feb. 21, 2020
-**https://www.medrxiv.org/content/10.1101/2020.01.28.20019224v2**
+**: https://doi.org/10.7554/eLife.55570**
 
 ### :arrow_right: [[Read the study]](https://github.com/kgostic/traveller_screening/blob/master/manuscript_Revision1.pdf).
 
@@ -12,7 +11,7 @@ Last update: Feb. 21, 2020
 
 Feel free to use or modify this code. We just ask that you cite us:
  * Gostic K, Kucharski AJ, Lloyd-Smith JO. (2015) eLife 4:e05564.
- * Gostic K; Gomez, ACR; Mummah, RO; Kucharski, AJ; Lloyd-Smith JO. (2020). medRxiv: https://doi.org/10.1101/2020.01.28.20019224.
+ * Gostic K; Gomez, ACR; Mummah, RO; Kucharski, AJ; Lloyd-Smith JO. (2020). eLife 9:e55570.
  
  -----
  
